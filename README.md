@@ -29,7 +29,7 @@ to complete the installation from the command line.
 
 ## License ##
 
-2022 Ashley K Y SATCHIVI <ashleysatchivi92@gmail.com>
+2022 Kokokè Yasmine Ashley SATCHIVI <ashleysatchivi92@gmail.com>
 
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU General Public License as published by the Free Software
